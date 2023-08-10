@@ -1,11 +1,11 @@
 #include <stdio.h>
-#include <main.h>
+#include "main.h"
 /**
- * main: writes its own name
+ * main : prints whatsmyname
  *
  * @argc: argument count
  * @argv: argument vector
- * Return: 0
+ * Return: 0 success everytime
  */
 int main(int argc, char *argv[])
 {
